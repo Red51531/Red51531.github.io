@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>图库</title>
+      <link href="/2023/04/03/%E5%9B%BE%E5%BA%93/"/>
+      <url>/2023/04/03/%E5%9B%BE%E5%BA%93/</url>
+      
+        <content type="html"><![CDATA[<p>可爱的猫猫图片<br><img src="https://picx.zhimg.com/80/v2-619596c5f3da6d65061098f798478361_1440w.webp?source=1940ef5c" alt="图片描述"><br><img src="https://picx.zhimg.com/80/v2-edb4df2cb6d0b883bdaf0734b5072178_1440w.webp?source=1940ef5c" alt="图片描述"><br><img src="https://picx.zhimg.com/80/v2-3a4c53431d6405134524ec6502666e37_1440w.webp?source=1940ef5c" alt="图片描述"></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 图库 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>APEX介绍</title>
+      <link href="/2023/03/12/APEX%E4%BB%8B%E7%BB%8D%EF%BC%88%E6%B5%8B%E8%AF%95%EF%BC%89/"/>
+      <url>/2023/03/12/APEX%E4%BB%8B%E7%BB%8D%EF%BC%88%E6%B5%8B%E8%AF%95%EF%BC%89/</url>
+      
+        <content type="html"><![CDATA[<hr><p>APEX 游戏是一款由美国电子游戏公司 Respawn Entertainment 开发的多人在线射击游戏，于2019年2月发布，目前支持 Microsoft Windows、PlayStation 4、PlayStation 5、Xbox One、Xbox Series X&#x2F;S、Nintendo Switch 等多个平台。</p><p>APEX 游戏的玩法与大多数射击游戏相似，玩家需要在一个战斗场景中与其他玩家进行战斗，使用各种武器和技能来击败对手并生存下来。游戏中的角色都有不同的技能和特点，玩家可以选择适合自己游戏风格的角色来进行游戏。</p><p>APEX 游戏最大的特点是其团队玩法。游戏中的每个团队由三个玩家组成，玩家需要与自己的团队成员协作，共同完成游戏目标，比如击败敌人、夺取物资等。此外，游戏中还提供了一些特殊的游戏模式和挑战，如荒野求生模式、限时活动等，让游戏更加丰富有趣。</p><p>APEX 游戏受到了广泛的欢迎，尤其在电子竞技领域中，成为了一款备受关注的游戏。游戏还不断更新和扩展，推出了新的角色、游戏模式、武器等内容，让玩家们有更多的选择和乐趣。<br><img src="/img/post/%E6%90%AD%E5%BB%BA/%E6%B5%8B%E8%AF%951.jpg" alt="图片描APEX图片"></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 游戏 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2023/03/11/hello-world/"/>
+      <url>/2023/03/11/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
